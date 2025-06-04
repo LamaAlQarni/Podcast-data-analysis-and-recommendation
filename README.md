@@ -6,33 +6,29 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 - Discovered 13 records with a duration of 0 seconds (e.i. users accidentally opened a podcast episode without intending to listen).
 
 ## Data Analysis
-1. **What are the most listened-to categories?**
-   ![Most listened-to categories](fig/1-Most listened-to categories.png)
 
-   
-3. How does listening duration differ by gender?
-   ![Listening duration by gender](fig/2-Listening duration by gender.png)
+**What are the most listened-to categories?**  
+![Most listened-to categories](fig/1-Most listened-to categories.png)
 
-   
-5. What’s the average number of episodes per user?
-   ![Average number of episodes per user](fig/3-Average number of episodes per user.png)
+**How does listening duration differ by gender?**  
+![Listening duration by gender](fig/2-Listening duration by gender.png)
 
-   
-7. What are the most listened-to categories by gender?
-  ![Most listened categories per gender](fig/4-Most listened categories per gender.png)
+**What’s the average number of episodes per user?**  
+![Average number of episodes per user](fig/3-Average number of episodes per user.png)
 
+**What are the most listened-to categories by gender?**  
+![Most listened categories per gender](fig/4-Most listened categories per gender.png)
 
-9. Which countries are the top listeners, and what do they prefer?
-   ![Top listening countries](fig/5-Top listening countries.png)  
-   ![Top listening countries 2](fig/5-2-Top listening countries.png)
+**Which countries are the top listeners, and what do they prefer?**  
+![Top listening countries](fig/5-Top listening countries.png)  
+![Top listening countries 2](fig/5-2-Top listening countries.png)
 
-   
-11. Which age group listens the most?
-   ![Most listening age group](fig/6-Most listening age group.png)
+**Which age group listens the most?**  
+![Most listening age group](fig/6-Most listening age group.png)
 
+**What is the most common episode duration users prefer?**  
+![Most popular duration time for episodes](fig/7-Most popular duration time for episodes.png)
 
-13. What is the most common episode duration users prefer?
-   ![Most popular duration time for episodes](fig/7-Most popular duration time for episodes.png)
 
 
 ## Recommendation Strategies
