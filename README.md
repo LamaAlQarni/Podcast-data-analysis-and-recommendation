@@ -31,11 +31,25 @@ This analysis answers the 7 questions below:
 <img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/7-Most_popular_duration_time_for_episodes.png?raw=true" width="600">
 
 
-## Recommendation Strategies
+## Personalized Recommendation Strategies
 The goal is to recommend podcasts from the user’s favorite category, excluding episodes they've already heard. From the remaining pool, we apply three strategies to pick from the pool:
 - **Random Recommendation**: Selects `k` random episodes from the same favorite category.
 - **Demography-Based Recommendation**: select `k` episodes popular in the user’s country.
 - **Age Group-Based Recommendation**: select `k` episodes popular among the user’s age group.
+
+## Summary and Results
++ **Popularity Peaks**: The categories "Society" and "Sport" dominate the platform, attracting over 65% of total listeners.
++ **Gender Listening Patterns**:
+   A noticeable difference emerges between genders:
+      - **Women** prefer longer content, averaging **15.1 minutes**.
+      - **Men** prefer shorter content, around **10.4 minutes**.
++ **Engagement Levels**: On average, a user listens to **4.5 episodes** (decent level of retention, but can be improved).
++ **Top Geographies**: Nearly **half of the audience** comes from **Jordan and Morocco**. These countries should be prioritized for targeted content
++ **Preferred Episode Durations**: Listeners highly favor **shorter episodes**, especially **1-minute and 5-minute** episodes.
++ **Age Demographics**: A significant **71% of listeners are above 30 years old** (you have a mature audience base :0).
++ **Underperforming Categories**:  **"Technology"** and especially **"Politics"** are the **least engaging categories** across all regions. 
+
+    
 
 
 
