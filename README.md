@@ -1,6 +1,20 @@
 # Podcast Listening Behavior Analysis & Recommendation System
 This project analyzes user listening behavior in a podcast platform dataset and builds a logic-based recommender system using user activity data, age group, and location.
 
+
+## Summary and Results
++ **Popularity Peaks**: The categories "Society" and "Sport" dominate the platform, attracting over 65% of total listeners.
++ **Gender Listening Patterns**:<br>
+   A noticeable difference emerges between genders:<br>
+      - **Women** prefer longer content, averaging **15.1 minutes**.<br>
+      - **Men** prefer shorter content, around **10.4 minutes**.<br>
++ **Engagement Levels**: On average, a user listens to **4.5 episodes** (decent level of retention, but can be improved).
++ **Top Geographies**: Nearly **half of the audience** comes from **Jordan and Morocco**. These countries should be prioritized for targeted content
++ **Preferred Episode Durations**: Listeners highly favor **shorter episodes**, especially **1-minute and 5-minute** episodes.
++ **Age Demographics**: A significant **71% of listeners are above 30 years old** (you have a mature audience base :0).
++ **Underperforming Categories**:  **"Technology"** and especially **"Politics"** are the **least engaging categories** across all regions. 
+
+<hr>
 ## Data Loading & Processing
 - No Missing Values.
 - Discovered 13 records with a duration of 0 seconds (e.i. users accidentally opened a podcast episode without intending to listen).
@@ -37,17 +51,6 @@ The goal is to recommend podcasts from the user’s favorite category, excluding
 - **Demography-Based Recommendation**: select `k` episodes popular in the user’s country.
 - **Age Group-Based Recommendation**: select `k` episodes popular among the user’s age group.
 
-## Summary and Results
-+ **Popularity Peaks**: The categories "Society" and "Sport" dominate the platform, attracting over 65% of total listeners.
-+ **Gender Listening Patterns**:<br>
-   A noticeable difference emerges between genders:<br>
-      - **Women** prefer longer content, averaging **15.1 minutes**.<br>
-      - **Men** prefer shorter content, around **10.4 minutes**.<br>
-+ **Engagement Levels**: On average, a user listens to **4.5 episodes** (decent level of retention, but can be improved).
-+ **Top Geographies**: Nearly **half of the audience** comes from **Jordan and Morocco**. These countries should be prioritized for targeted content
-+ **Preferred Episode Durations**: Listeners highly favor **shorter episodes**, especially **1-minute and 5-minute** episodes.
-+ **Age Demographics**: A significant **71% of listeners are above 30 years old** (you have a mature audience base :0).
-+ **Underperforming Categories**:  **"Technology"** and especially **"Politics"** are the **least engaging categories** across all regions. 
 
     
 
