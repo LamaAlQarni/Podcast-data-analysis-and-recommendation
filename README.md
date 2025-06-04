@@ -8,7 +8,7 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 ## Data Analysis
 
 **What are the most listened-to categories?**  
-![Most listened-to categories](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/1-Most%20listened-to%20categories.png)
+![Most listened-to categories](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/1-Most_listened-to_categories.png)
 
 **How does listening duration differ by gender?**  
 ![Listening duration by gender](fig/2-Listening duration by gender.png)
