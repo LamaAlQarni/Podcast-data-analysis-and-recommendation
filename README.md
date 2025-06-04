@@ -6,7 +6,7 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 - Discovered 13 records with a duration of 0 seconds (e.i. users accidentally opened a podcast episode without intending to listen).
 
 ## Data Analysis
-1. What are the most listened-to categories?
+1. **What are the most listened-to categories?**
    ![Most listened-to categories](fig/1-Most listened-to categories.png)
 3. How does listening duration differ by gender?
    ![Listening duration by gender](fig/2-Listening duration by gender.png)
