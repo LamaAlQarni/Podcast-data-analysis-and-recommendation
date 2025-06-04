@@ -8,27 +8,26 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 ## Data Analysis
 
 **What are the most listened-to categories?**  
-![Most listened-to categories](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/1-Most_listened-to_categories.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/1-Most_listened-to_categories.png?raw=true" width="600">
 
 **How does listening duration differ by gender?**  
-![Listening duration by gender](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/2-Listening_duration_by_gender.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/2-Listening_duration_by_gender.png?raw=true" width="600">
 
 **What’s the average number of episodes per user?**  
-![Average number of episodes per user](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/3-Average_number_of_episodes_per_user.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/3-Average_number_of_episodes_per_user.png?raw=true" width="600">
 
 **What are the most listened-to categories by gender?**  
-![Most listened categories per gender](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/4-Most_listened_categories_per_gender.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/4-Most_listened_categories_per_gender.png?raw=true" width="600">
 
 **Which countries are the top listeners, and what do they prefer?**  
-![Top listening countries](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/5-Top_listening_countries.png)  
-![Top listening countries 2](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/5-2-Top_listening_countries.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/5-Top_listening_countries.png?raw=true" width="600">  
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/5-2-Top_listening_countries.png?raw=true" width="600">
 
 **Which age group listens the most?**  
-![Most listening age group](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/6-Most_listening_age_group.png)
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/6-Most_listening_age_group.png?raw=true" width="600">
 
 **What is the most common episode duration users prefer?**  
-![Most popular duration time for episodes](https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/7-Most_popular_duration_time_for_episodes.png)
-
+<img src="https://github.com/LamaAlQarni/Podcast-data-analysis-and-recommendation/blob/main/fig/7-Most_popular_duration_time_for_episodes.png?raw=true" width="600">
 
 
 ## Recommendation Strategies
