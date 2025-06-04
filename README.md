@@ -1,5 +1,5 @@
 # Podcast Listening Behavior Analysis & Recommendation System
-This project analyzes user listening behavior in a podcast platform dataset and builds a logic-based recommender system using user activity data, gender, age group, and location.
+This project analyzes user listening behavior in a podcast platform dataset and builds a logic-based recommender system using user activity data, age group, and location.
 
 ## Data Loading & Processing
 - No Missing Values.
@@ -15,12 +15,10 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 7. What is the most common episode duration users prefer?
 
 ## Recommendation Strategies
-As the assignment prompt encouraged us to recommend podcasts to users based on their favorite content category. 
-We made a recommnedation list of episodes with the same favorite content category but filtered out those already listened to by the user.
-This left us with a bunch of episodes to pick from, the following are the strategies used to pick from the list:
-- **Random Recommendation**: Selects `k` random episodes from the favorite category.
-- **Demography-Based Recommendation**: select k episodes that people from the *same country* most listened-to.
-- **Age Group-Based Recommendation**: select k episodes that people from the *same age group* most listened-to.
+The goal is to recommend podcasts from the user’s favorite category, excluding episodes they've already heard. From the remaining pool, we apply three strategies to pick from the pool:
+- **Random Recommendation**: Selects `k` random episodes from the same favorite category.
+- **Demography-Based Recommendation**: select k episodes popular in the user’s country.
+- **Age Group-Based Recommendation**: select k episodes popular among the user’s age group.
 
 
 
