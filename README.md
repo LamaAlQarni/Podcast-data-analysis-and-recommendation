@@ -49,7 +49,7 @@ This analysis answers the 7 questions below:
 
 ## Personalized Recommendation Strategies
 The goal is to recommend podcasts from the user’s favorite category, excluding episodes they've already heard. From the remaining pool, we apply three strategies to pick from the pool:
-- **Random Recommendation**: Selects `k` random episodes.
+- **Random Recommendation**: Selects `k` random episodes (naive, but still from the same favorite category :) ).
 - **Demography-Based Recommendation**: select `k` episodes popular in the user’s country.
 - **Age Group-Based Recommendation**: select `k` episodes popular among the user’s age group.
 
