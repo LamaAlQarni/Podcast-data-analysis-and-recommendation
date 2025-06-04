@@ -7,12 +7,20 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 
 ## Data Analysis
 1. What are the most listened-to categories?
+  ![Most listened-to categories](fig/1-Most listened-to categories.png)
 2. How does listening duration differ by gender?
+   ![Listening duration by gender](fig/2-Listening duration by gender.png)
 3. What’s the average number of episodes per user?
+   ![Average number of episodes per user](fig/3-Average number of episodes per user.png)
 4. What are the most listened-to categories by gender?
+  ![Most listened categories per gender](fig/4-Most listened categories per gender.png)
 5. Which countries are the top listeners, and what do they prefer?
+   ![Top listening countries](fig/5-Top listening countries.png)  
+   ![Top listening countries 2](fig/5-2-Top listening countries.png)
 6. Which age group listens the most?
+   ![Most listening age group](fig/6-Most listening age group.png)
 7. What is the most common episode duration users prefer?
+   ![Most popular duration time for episodes](fig/7-Most popular duration time for episodes.png)
 
 ## Recommendation Strategies
 The goal is to recommend podcasts from the user’s favorite category, excluding episodes they've already heard. From the remaining pool, we apply three strategies to pick from the pool:
