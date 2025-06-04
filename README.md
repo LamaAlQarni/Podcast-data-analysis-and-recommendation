@@ -8,7 +8,7 @@ This project analyzes user listening behavior in a podcast platform dataset and 
    A noticeable difference emerges between genders:<br>
       - **Women** prefer longer content, averaging **15.1 minutes**.<br>
       - **Men** prefer shorter content, around **10.4 minutes**.<br>
-+ **Engagement Levels**: On average, a user listens to **4.5 episodes** (decent level of retention, but can be improved).
++ **Engagement Levels**: On average, a user listens to **4.5 episodes** (good level of retention, but can be improved).
 + **Top Geographies**: Nearly **half of the audience** comes from **Jordan and Morocco**. These countries should be prioritized for targeted content
 + **Preferred Episode Durations**: Listeners highly favor **shorter episodes**, especially **1-minute and 5-minute** episodes.
 + **Age Demographics**: A significant **71% of listeners are above 30 years old** (you have a mature audience base :0).
