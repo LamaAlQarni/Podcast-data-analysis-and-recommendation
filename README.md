@@ -15,6 +15,8 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 + **Underperforming Categories**:  **"Technology"** and especially **"Politics"** are the **least engaging categories** across all regions. 
 
 <hr>
+
+
 ## Data Loading & Processing
 - No Missing Values.
 - Discovered 13 records with a duration of 0 seconds (e.i. users accidentally opened a podcast episode without intending to listen).
