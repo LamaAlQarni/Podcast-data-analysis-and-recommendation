@@ -7,7 +7,7 @@ This project analyzes user listening behavior in a podcast platform dataset and 
 
 ## Data Analysis
 1. What are the most listened-to categories?
-  ![Most listened-to categories](fig/1-Most listened-to categories.png)
+  ![Most listened-to categories](./fig/1-Most listened-to categories.png)
 2. How does listening duration differ by gender?
    ![Listening duration by gender](fig/2-Listening duration by gender.png)
 3. What’s the average number of episodes per user?
